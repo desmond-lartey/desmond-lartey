@@ -39,8 +39,8 @@ For more information, please visit my [Portfolio Website](https://example.com).
 ## Tools and Technologies
 - GIS Softwares: ESRI ArcGIS Pro | Arc Map | QGIS
 - Cloud Computing & Big Data: Google Earth Engine
-- Geospatial & Big Data Analysis: Python | Jupyter Notebook | IDE: VSCode
-- Statistics & Visualizations: MiniTab | Power BI | ArcGIS Pro | Excel | Tableau | ESRI Insights
+- Geospatial & Big Data Analysis: Python | Jupyter Notebook | IDE: VSCode | PostgreSQL | PostGIS
+- Statistics & Visualizations: MiniTab | Power BI | ArcGIS Pro | Excel | Tableau | ESRI Insights | SPSS
 - Environmental Modelling/Prediction: TerrSet | AGB | Trend Earth
 
 
@@ -111,6 +111,14 @@ For more information, please visit my [Portfolio Website](https://example.com).
    </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/1eeb790f099b653e0614e3919e71b581f65873361c8755338cf1232c35b68400/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4e65775f506f7765725f42495f4c6f676f2e7376672f36333070782d4e65775f506f7765725f42495f4c6f676f2e7376672e706e67" alt="PowerBI" width="90" height="90"//>
+  </a>
+     </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/SPSS_An_IBM_Company_logo.svg" alt="SPSS" width="90" height="90"//>
+  </a>
+     </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://bitnine.net/wp-content/uploads/2016/08/20160810_1.png" alt="PostGIS" width="90" height="90"//>
   </a>
   
 </p>
