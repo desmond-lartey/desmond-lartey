@@ -1,4 +1,7 @@
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img align = "right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" alt="PostGIS" width="1000" height="500"//>
+  </a>
+  
 
 <div align="center">
   <h2 class="section-header">
@@ -27,8 +30,9 @@
 
 I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. I am also a Guest Researcher at Wageningen University and Research with a focus on Land use change monitoring, using Geographic Information Science (GIS), remote sensing, and environmental modelling. My research aims to apply geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine, Python, R) to study environmental change, Urban planning and design, and climate change. I also do Qualitative research using systematic literature review, field works/surveys, interviews and focus group discussions.
 
+  
 ## About Me
-- 🌱 Currently, I'm working on regional to global scale studies addressing environmental change using geospatial techniques.
+- 🌱 Currently, I'm working on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
 - 💼 I am a 5-star rated Researcher and critical thinker.
 - 💼 With over 4 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
 - 👯 I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
