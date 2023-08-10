@@ -28,11 +28,11 @@
 </div>
 
 
-I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. I am also a Guest Researcher at Wageningen University and Research with a focus on Land use change monitoring, using Geographic Information Science (GIS), remote sensing, and environmental modelling. My research aims to apply geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine, Python, R) to study environmental change, Urban planning and design, and climate change. I also do Qualitative research using systematic literature review, field works/surveys, interviews and focus group discussions.
+I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL i am a project Lead for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and how they contribute to the greening of the cities. At Urban Cycling Institute, i and looking into what active travel means for Africa. I am also a Guest Researcher at Wageningen University and Research with a focus on Land use change monitoring, using Geographic Information Science (GIS), remote sensing, and environmental modelling. My research aims to apply geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine, Python, R) to study environmental change, Urban planning and design, and climate change. I also do Qualitative research using systematic literature review, field works/surveys, interviews and focus group discussions.
 
   
 ## About Me
-- 🌱 Currently, I'm working on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
+- 🌱 I work on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
 - 💼 I am a 5-star rated Researcher and critical thinker.
 - 💼 With over 4 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
 - 👯 I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
