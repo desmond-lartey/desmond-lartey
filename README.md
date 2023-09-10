@@ -34,7 +34,7 @@ I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Inst
 ## About Me
 - 🌱 I work on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
 - 💼 I am a 5-star rated Researcher and critical thinker.
-- 💼 With over 4 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
+- 💼 With over 5 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
 - 👯 I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
 
 For more information, please visit my [Portfolio Website](https://desmond-lartey.github.io/Portfolio-Website/index.html).
