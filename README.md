@@ -45,7 +45,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
 - Cloud Computing & Big Data: Google Earth Engine
 - Geospatial & Big Data Analysis: Python | Jupyter Notebook | IDE: VSCode | PostgreSQL | PostGIS
 - Statistics & Visualizations: MiniTab | Power BI | ArcGIS Pro | Excel | Tableau | ESRI Insights | SPSS
-- Environmental Modelling/Prediction: TerrSet | AGB | Trend Earth
+- Environmental Modelling/Prediction: TerrSet | AGB | Trend Earth | Scenario Manager
 
 
 ## Connect with Me
