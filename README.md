@@ -71,7 +71,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
   </a>
 </p>
 
-## Languages and Tools:
+## Programming Language and Tools:
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/>
