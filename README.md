@@ -114,7 +114,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
   </a>
    </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/1eeb790f099b653e0614e3919e71b581f65873361c8755338cf1232c35b68400/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4e65775f506f7765725f42495f4c6f676f2e7376672f36333070782d4e65775f506f7765725f42495f4c6f676f2e7376672e706e67" alt="PowerBI" width="90" height="90"//>
+    <img src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-7a05e9f/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" alt="PowerBI" width="90" height="90"//>
   </a>
      </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
