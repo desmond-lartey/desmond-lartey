@@ -102,7 +102,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
   </a>
  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/22ae1e0b66b7fb1028daffe40317f48e87a17563c4b313f42c12aa604feaf31b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39312f514749535f6c6f676f5f6e65772e7376672f3132303070782d514749535f6c6f676f5f6e65772e7376672e706e67" alt="QGIS" width="90" height="90"//>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qgis_logo_icon_168038.png" alt="QGIS" width="90" height="90"//>
   </a>
  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
