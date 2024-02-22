@@ -122,7 +122,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
   </a>
      </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://bitnine.net/wp-content/uploads/2016/08/20160810_1.png" alt="PostGIS" width="90" height="90"//>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGIS" width="90" height="90"//>
   </a>
   
 </p>
