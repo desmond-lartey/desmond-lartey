@@ -98,7 +98,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/d0d0fede269644fda53cb19eb93c180bf0cce60b048649335082fbf3618adfa0/68747470733a2f2f6561727468656e67696e652e676f6f676c652e636f6d2f7374617469632f696d616765732f65617274682d656e67696e652d6c6f676f2e706e67" alt="earthengine" width="90" height="90"//>
+    <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="earthengine" width="90" height="90"//>
   </a>
  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
