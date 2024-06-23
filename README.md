@@ -39,7 +39,7 @@ During my time as a Guest Researcher at Wageningen University and Research, I fo
 - 💼 With over 5 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
 - 👯 I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
 
-For more information, please visit my [Portfolio Website](https://desmond-lartey.github.io/Portfolio-Website/index.html).
+For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey.github.io/Portfolio-Website/index.html).
 
 
 ## Tools and Technologies
