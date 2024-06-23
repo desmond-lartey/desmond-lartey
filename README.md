@@ -28,7 +28,9 @@
 </div>
 
 
-I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Lead for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and how they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa. I am also a Guest Researcher at Wageningen University and Research with a focus on Land use change monitoring, using Geographic Information Science (GIS), remote sensing, and environmental modelling. My research aims to apply geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine, Python, R) to study environmental change, Urban planning and design, and climate change. I also do Qualitative research using systematic literature review, field works/surveys, interviews and focus group discussions.
+I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Leader for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and the ecosystem services they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa and Providing GIS, Data management and spatial planning analysis support to conduct accessibility analysis of environmental determinants for Bonaire. 
+
+During my time as a Guest Researcher at Wageningen University and Research, I focused on Land use change monitoring, using state-of-the-art Geographic Information and remote sensing techniques. My research aims to apply geospatial techniques, machine learning, and cloud computing to study environmental change, Urban planning and design. I apply both quantitative and Qualitative research design in my work (modelling, statistics, systematic literature review, field works/surveys, interviews and focus group discussions).
 
   
 ## About Me
@@ -41,7 +43,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
 
 
 ## Tools and Technologies
-- GIS Softwares: ESRI ArcGIS Pro | Arc Map | QGIS
+- GIS Software: ESRI ArcGIS Pro | Arc Map | QGIS
 - Cloud Computing & Big Data: Google Earth Engine
 - Geospatial & Big Data Analysis: Python | Jupyter Notebook | IDE: VSCode | PostgreSQL | PostGIS
 - Statistics & Visualizations: MiniTab | Power BI | ArcGIS Pro | Excel | Tableau | ESRI Insights | SPSS
@@ -53,7 +55,7 @@ For more information, please visit my [Portfolio Website](https://desmond-lartey
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=your_google_scholar_id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/desmond-lartey/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen)](https://www.researchgate.net/profile/your_researchgate_id)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/your_orcid_id)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0008-8855-6391)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Check%20Out%20My%20Services-1dbf73)](https://www.fiverr.com/your_fiverr_id)
 
 
