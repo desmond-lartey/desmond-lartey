@@ -112,7 +112,7 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
   </a>
    </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cla.temple.edu/tech-notes/assets/img/arcgis-pro.png" alt="ArcgisPro" width="90" height="90"//>
+    <img src="https://www.oneteam.it/wp-content/uploads/elementor/thumbs/5-q4gxdkdeikjjzqzxcbtsegzhegrkkrzb41l96kbsj0.png" alt="ArcgisPro" width="90" height="90"//>
   </a>
    </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
