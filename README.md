@@ -28,7 +28,7 @@
 </div>
 
 
-I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Leader for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and the ecosystem services they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa and Providing GIS, Data management and spatial planning analysis support to conduct accessibility analysis of environmental determinants for Bonaire. 
+I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Leader for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and the ecosystem services they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa and Providing GIS, Data management and spatial planning analysis support to conduct accessibility analysis of environmental determinants for the Caribbean Dutch municipality of Bonaire. 
 
 During my time as a Guest Researcher at Wageningen University and Research, I focused on Land use change monitoring, using state-of-the-art Geographic Information and remote sensing techniques. My research aims to apply geospatial techniques, machine learning, and cloud computing to study environmental change, Urban planning and design. I apply both quantitative and Qualitative research design in my work (modelling, statistics, systematic literature review, field works/surveys, interviews and focus group discussions).
 
