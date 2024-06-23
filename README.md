@@ -108,15 +108,15 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
   </a>
  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/c2cb4437aa8ff77d8d4e16421a7238259a77f7d374104d90c3268e33ba6e2422/68747470733a2f2f7777772e657372692e636f6d2f636f6e74656e742f64616d2f6573726973697465732f656e2d75732f636f6d6d6f6e2f69636f6e732f70726f647563742d6c6f676f732f4172634749532d50726f2e706e67" alt="ArcgisPro" width="90" height="90"//>
+    <img src="https://www.oneteam.it/wp-content/uploads/elementor/thumbs/1-q4gxdkdeikjjzqzxcbtsegzhegrkkrzb41l96kbsj0.png" alt="ArcgisPro" width="90" height="90"//>
   </a>
    </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="ArcgisPro" width="90" height="90"//>
+    <img src="https://cla.temple.edu/tech-notes/assets/img/arcgis-pro.png" alt="ArcgisPro" width="90" height="90"//>
   </a>
    </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-7a05e9f/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" alt="PowerBI" width="90" height="90"//>
+    <img src="https://techsbcn.com/wp-content/uploads/2021/11/power-bi-icons-1.jpg" alt="PowerBI" width="90" height="90"//>
   </a>
      </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
