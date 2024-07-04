@@ -2,24 +2,24 @@
     <img align = "right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" target="_blank" rel="noreferrer" alt="timelapse" width="1000" height="400"//>
   </a>
   
-<div align="center">
-  <h2 class="section-header">
-    Hi there 👋, I'm Mirza Waleed!
-  </h2>
-  <p>
-    <strong>PhD Fellow (RS & GIS)👨‍🔬🎓</strong> | 
-    <strong>Google Developer Expert (GDE) in Earth Engine🌍</strong>
-  </p>
-  <p>
-    <strong>Spatial Analysis🛰️</strong> | 
-    <strong>Geospatial Research🌆</strong>
-  </p>
-  <p>
-    <strong>Remote Sensing</strong> | 
-    <strong>GIS</strong> | 
-    <strong>Machine Learning</strong>
-  </p>
-</div>
+  <div align="center">
+    <h2 class="section-header">
+      Hi there 👋, I'm Mirza Waleed!
+    </h2>
+    <p>
+      <strong>PhD Fellow (RS & GIS)👨‍🔬🎓</strong> | 
+      <strong>Google Developer Expert (GDE) in Earth Engine🌍</strong>
+    </p>
+    <p>
+      <strong>Spatial Analysis🛰️</strong> | 
+      <strong>Geospatial Research🌆</strong>
+    </p>
+    <p>
+      <strong>Remote Sensing</strong> | 
+      <strong>GIS</strong> | 
+      <strong>Machine Learning</strong>
+    </p>
+  </div>
 
 <div align="center">
   <h2 class="section-header">
