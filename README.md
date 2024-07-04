@@ -1,50 +1,7 @@
   <a href="right" src="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer">
     <img align = "right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" target="_blank" rel="noreferrer" alt="timelapse" width="1000" height="400"//>
   </a>
-  
-  <div align="center">
-    <h2 class="section-header">
-      Hi there 👋, I'm Mirza Waleed!
-    </h2>
-    <p>
-      <strong>PhD Fellow (RS & GIS)👨‍🔬🎓</strong> | 
-      <strong>Google Developer Expert (GDE) in Earth Engine🌍</strong>
-    </p>
-    <p>
-      <strong>Spatial Analysis🛰️</strong> | 
-      <strong>Geospatial Research🌆</strong>
-    </p>
-    <p>
-      <strong>Remote Sensing</strong> | 
-      <strong>GIS</strong> | 
-      <strong>Machine Learning</strong>
-    </p>
-  </div>
-
-<div align="center">
-  <h2 class="section-header">
-    Hi there 👋, I'm Desmond Lartey!
-  </h2>
-  <p>
-    <strong>Scientific Researcher👨‍🔬🎓</strong> | 
-    <strong>Land-use monitoring🌆</strong> | 
-    <strong>Plants-Urban Greening🌍</strong> | 
-    <strong>Remote Sensing🛰️</strong>
-  </p>
-  <p>
-    <strong>Spatial Planning, Risk, & Flood Analysis🌊</strong> | 
-    <strong>Climate Change🌡️</strong> | 
-    <strong>Fire Resilient Landscapes🌆</strong>
-  </p>
-  <p>
-    <strong>Modelling</strong> | 
-    <strong>Earth Sciences🌍</strong> | 
-    <strong>Management</strong> | 
-    <strong>Governance</strong> | 
-    <strong>Sense-making, and decision-making</strong>
-  </p>
-</div>
-
+ 
 
 I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Leader for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and the ecosystem services they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa and Providing GIS, Data management and spatial planning analysis support to conduct accessibility analysis of environmental determinants for the Caribbean Dutch municipality of Bonaire. 
 
