@@ -1,36 +1,27 @@
-<a href="right" src="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer">
-    <img align = "right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" target="_blank" rel="noreferrer" alt="timelapse" width="1000" height="400"//>
-  </a>
-  
+<a href="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer">
+    <img align="right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" alt="timelapse" width="300" height="200"/>
+</a>
 
 <div align="center">
   <h2 class="section-header">
-    Hi there 👋, I'm Desmond Lartey!
+    Hi there 👋, I'm Mirza Waleed!
   </h2>
   <p>
-    <strong>Scientific Researcher👨‍🔬🎓</strong> | 
-    <strong>Land-use monitoring🌆</strong> | 
-    <strong>Plants-Urban Greening🌍</strong> | 
-    <strong>Remote Sensing🛰️</strong>
+    <strong>PhD Fellow (RS & GIS)👨‍🔬🎓</strong> | 
+    <strong>Google Developer Expert (GDE) in Earth Engine🌍</strong>
   </p>
   <p>
-    <strong>Spatial Planning, Risk, & Flood Analysis🌊</strong> | 
-    <strong>Climate Change🌡️</strong> | 
-    <strong>Fire Resilient Landscapes🌆</strong>
+    <strong>Spatial Analysis🛰️</strong> | 
+    <strong>Geospatial Research🌆</strong>
   </p>
   <p>
-    <strong>Modelling</strong> | 
-    <strong>Earth Sciences🌍</strong> | 
-    <strong>Management</strong> | 
-    <strong>Governance</strong> | 
-    <strong>Sense-making, and decision-making</strong>
+    <strong>Remote Sensing</strong> | 
+    <strong>GIS</strong> | 
+    <strong>Machine Learning</strong>
   </p>
 </div>
 
-
-I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Leader for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and the ecosystem services they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa and Providing GIS, Data management and spatial planning analysis support to conduct accessibility analysis of environmental determinants for the Caribbean Dutch municipality of Bonaire. 
-
-During my time as a Guest Researcher at Wageningen University and Research, I focused on Land use change monitoring, using state-of-the-art Geographic Information and remote sensing techniques. My research aims to apply geospatial techniques, machine learning, and cloud computing to study environmental change, Urban planning and design. I apply both quantitative and Qualitative research design in my work (modelling, statistics, systematic literature review, field works/surveys, interviews and focus group discussions).
+I am a PhD Fellow at Hong Kong Baptist University specializing in Remote Sensing (RS) and Geographic Information Systems (GIS). As a Google Developer Expert in Earth Engine, I leverage cloud computing to address geospatial challenges. My research integrates machine learning and geospatial analysis to study environmental changes and urban planning.
 
   
 ## About Me
