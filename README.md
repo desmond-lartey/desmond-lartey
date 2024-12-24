@@ -28,9 +28,14 @@
 </div>
 
 
-I am a scientific researcher at Agro-NL Consult Solutions and Urban Cycling Institute in Amsterdam. At Agro-NL I am a Project Leader for the Urban Green and Sustainability concept. We looked into over 3000 assortments of plant species, their functional and ornamental characteristics and the ecosystem services they contribute to the greening of the cities. At Urban Cycling Institute, I am looking into what active travel means for Africa and Providing GIS, Data management and spatial planning analysis support to conduct accessibility analysis of environmental determinants for the Caribbean Dutch municipality of Bonaire. 
+Desmond Lartey is an Advisor/Researcher at Deltares, where he actively contributes to European Union-funded projects aimed at fostering climate resilience and sustainable development. His current role involves leading mapping and modelling tasks for the DesirMED project under the European Mission on Climate Adaptation. He also collaborates on initiatives such as REST-COAST and NBRACER, which focus on mainstreaming Nature-Based Solutions (NBS) for long-term climate resilience across diverse landscapes. In addition, he develops GIS-based decision support tools for cross-scale assessments of NBS, focusing on socio-economic and climate scenarios. Desmond is instrumental in creating adaptation pathways for multi-hazard, multi-system resilience, aligning with European data standards, and provides advisory support to several EU projects, including MYRIAD, P2R, ACCRUE, and REACH-OUT.
 
-During my time as a Guest Researcher at Wageningen University and Research, I focused on Land use change monitoring, using state-of-the-art Geographic Information and remote sensing techniques. My research aims to apply geospatial techniques, machine learning, and cloud computing to study environmental change, Urban planning and design. I apply both quantitative and Qualitative research design in my work (modelling, statistics, systematic literature review, field works/surveys, interviews and focus group discussions).
+Desmond's previous roles include Scientific Researcher at Agro-NL Consult Solutions, where he analyzed over 3,000 plant species for their ecosystem services and urban sustainability contributions. At Amsterdam's Urban Cycling Institute, he investigated active travel in Africa and conducted accessibility studies in Bonaire using GIS and spatial planning analyses. As a Researcher at Wageningen University and Research, he monitored land use changes, employing advanced GIS, remote sensing, machine learning, and various quantitative and qualitative methodologies, such as modeling, statistical analysis, fieldwork, and stakeholder engagement.
+
+Desmond has a growing interest in artificial intelligence, governance, and social network analysis, with a focus on leveraging technologies like graph neural networks and sentiment analysis for decision-making processes. He explores frameworks such as actor-network theory and network governance to understand how power dynamics and collaborations influence policy outcomes.
+
+
+
 
   
 ## About Me
