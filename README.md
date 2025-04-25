@@ -39,10 +39,10 @@ Desmond has a Research interest in artificial intelligence systems, AI Urbanism 
 
   
 ## About Me
-- 🌱 I work on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
-- 💼 I am a 5-star rated Researcher and critical thinker.
-- 💼 With over 5 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
-- 👯 I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
+- I work on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
+- I am a 5-star rated Researcher and critical thinker.
+- With over 5 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
+- I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
 
 For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey.github.io/Portfolio-Website/index.html).
 
@@ -64,7 +64,7 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
 [![Fiverr](https://img.shields.io/badge/Fiverr-Check%20Out%20My%20Services-1dbf73)](https://www.fiverr.com/your_fiverr_id)
 
 
-- 📫 How to reach me: larteydesmond3@gmail.com
+- How to reach me: larteydesmond3@gmail.com
 
 - ⚡ Fun fact: I am always serious, but I think I can be fun sometimes too! :)
 
