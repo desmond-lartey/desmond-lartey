@@ -5,22 +5,21 @@
 
 <div align="center">
   <h2 class="section-header">
-    Hi there 👋, I'm Desmond Lartey!
   </h2>
   <p>
-    <strong>Scientific Researcher👨‍🔬🎓</strong> | 
-    <strong>Land-use monitoring🌆</strong> | 
-    <strong>Plants-Urban Greening🌍</strong> | 
-    <strong>Remote Sensing🛰️</strong>
+    <strong>Scientific Researcher</strong> | 
+    <strong>Land-use monitoring</strong> | 
+    <strong>Plants-Urban Greening</strong> | 
+    <strong>Remote Sensing</strong>
   </p>
   <p>
-    <strong>Spatial Planning, Risk, & Flood Analysis🌊</strong> | 
-    <strong>Climate Change🌡️</strong> | 
-    <strong>Fire Resilient Landscapes🌆</strong>
+    <strong>Spatial Planning, Risk, & Flood Analysis</strong> | 
+    <strong>Climate Change</strong> | 
+    <strong>Fire Resilient Landscapes</strong>
   </p>
   <p>
     <strong>Modelling</strong> | 
-    <strong>Earth Sciences🌍</strong> | 
+    <strong>Earth Sciences</strong> | 
     <strong>Management</strong> | 
     <strong>Governance</strong> | 
     <strong>Sense-making, and decision-making</strong>
