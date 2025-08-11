@@ -8,7 +8,7 @@
       
   </h2>
   <p>
-    <strong>Scientific Researcher</strong> | 
+    <strong>     Scientific Researcher</strong> | 
     <strong>Land-use monitoring</strong> | 
     <strong>Plants-Urban Greening</strong> | 
     <strong>Remote Sensing</strong>
