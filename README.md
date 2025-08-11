@@ -4,11 +4,7 @@
   
 
 <div align="center">
-  <h2 class="section-header">
-      
-  </h2>
   <p>
-      
     <strong>Scientific Researcher</strong> | 
     <strong>Land-use monitoring</strong> | 
     <strong>Plants-Urban Greening</strong> | 
