@@ -1,28 +1,22 @@
-<a href="right" src="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer">
-    <img align = "right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" target="_blank" rel="noreferrer" alt="timelapse" width="1000" height="400"//>
-  </a>
-  
+<a href="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer">
+    <img align="right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" alt="timelapse" width="1000" height="400">
+</a>
 
-<div align="center">
-  <p>
-    <strong>Scientific Researcher</strong> | 
-    <strong>Land-use monitoring</strong> | 
-    <strong>Plants-Urban Greening</strong> | 
-    <strong>Remote Sensing</strong>
-  </p>
-  <p>
-    <strong>Spatial Planning, Risk, & Flood Analysis</strong> | 
-    <strong>Climate Change</strong> | 
-    <strong>Fire Resilient Landscapes</strong>
-  </p>
-  <p>
-    <strong>Modelling</strong> | 
-    <strong>Earth Sciences</strong> | 
-    <strong>Management</strong> | 
-    <strong>Governance</strong> | 
-    <strong>Sense-making, and decision-making</strong>
-  </p>
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.5; margin-top: 15px;">
+    <h2 style="margin: 0; font-size: 28px; font-weight: bold;">Scientific Researcher</h2>
+    <p style="margin: 5px 0; font-size: 18px;">
+        <strong>Land-use monitoring</strong> | 
+        <strong>Plants-Urban Greening</strong> | 
+        <strong>Remote Sensing</strong>
+    </p>
+    <p style="margin: 5px 0; font-size: 16px;">
+        Spatial Planning, Risk, &amp; Flood Analysis | Climate Change | Fire Resilient Landscapes
+    </p>
+    <p style="margin: 5px 0; font-size: 16px;">
+        Modelling | Earth Sciences | Management | Governance | Sense-making &amp; Decision-making
+    </p>
 </div>
+
 
 
 Desmond Lartey is an Advisor/Researcher at Deltares, where he actively contributes to European Union-funded projects aimed at fostering climate resilience and sustainable development. His current role involves leading mapping and modelling tasks for the DesirMED project under the European Mission on Climate Adaptation. He also collaborates on initiatives such as REST-COAST and NBRACER, which focus on mainstreaming Nature-Based Solutions (NBS) for long-term climate resilience across diverse landscapes. In addition, he develops GIS-based decision support tools for cross-scale assessments of NBS. Desmond is instrumental in creating adaptation pathways for multi-hazard, multi-system resilience, aligning with European data standards, and provides advisory support to several EU projects, including MYRIAD, P2R, ACCRUE, and REACH-OUT.
