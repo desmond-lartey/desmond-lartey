@@ -23,7 +23,7 @@ Desmond Lartey is a Researcher who actively contributes to Global/Regional funde
 
 Desmond's previous roles include Scientific Researcher at Wageningen University and Research, Agro-NL Consult Solutions, and Urban Cycling Institute.
 
-Desmond has a Research interest in artificial intelligence systems, AI Urbanism and governance. He uses techniques like social network analysis, graph neural networks, Natural Language Processing and sentiment analysis to understand urban systems. He collaborates with Researchers in ISSBS and Deakin University to explore frameworks such as systems  of systems, actor-network theory and network governance to understand AI Urbanism and how it shapes current policy and decision-making outcomes.
+Desmond has a Research interest in Artificial Intelligence systems, AI Urbanism and governance. He uses techniques like social network analysis, graph neural networks, Natural Language Processing, and sentiment analysis to understand urban systems. He collaborates with Researchers in ISSBS, Deakin University and USDA to explore frameworks such as systems  of systems, actor-network theory and network governance to understand AI Urbanism and how it shapes current policy and decision-making outcomes.
 
 
 
