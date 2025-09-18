@@ -19,7 +19,7 @@
 
 
 
-Desmond Lartey is an Advisor/Researcher at Deltares, where he actively contributes to European Union-funded projects aimed at fostering climate resilience and sustainable development. His current role involves leading mapping and modelling tasks for the DesirMED project under the European Mission on Climate Adaptation. He also collaborates on initiatives such as REST-COAST and NBRACER, which focus on mainstreaming Nature-Based Solutions (NBS) for long-term climate resilience across diverse landscapes. In addition, he develops GIS-based decision support tools for cross-scale assessments of NBS. Desmond is instrumental in creating adaptation pathways for multi-hazard, multi-system resilience, aligning with European data standards, and provides advisory support to several EU projects, including MYRIAD, P2R, ACCRUE, and REACH-OUT.
+Desmond Lartey is a Researcher who actively contributes to Global/Regional funded projects aimed at fostering climate resilience and sustainable development. His current role involves mapping and modelling tasks under the European Mission on Climate Adaptation. He also collaborates on initiatives which focus on mainstreaming Nature-Based Solutions (NBS) for long-term climate resilience across diverse landscapes. In addition, he develops GIS-based decision support tools for cross-scale assessments of NBS. Desmond is instrumental in creating adaptation pathways for multi-hazard, multi-system resilience, aligning with European and International data standards.
 
 Desmond's previous roles include Scientific Researcher at Wageningen University and Research, Agro-NL Consult Solutions, and Urban Cycling Institute.
 
