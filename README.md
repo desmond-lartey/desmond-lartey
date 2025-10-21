@@ -23,6 +23,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/desmond-lartey/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Desmondlartey17?style=social)](https://x.com/Desmondlartey17)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=desmond-lartey)
+<p align="center">
+  <a href="https://github.com/desmond-lartey" target="_blank">
+    <img src="https://img.shields.io/badge/💖-Give%20a%20Star-ff69b4?style=for-the-badge&logo=github" alt="Give a Star"/>
+  </a>
+</p>
 
 Desmond Lartey is a Researcher who actively contributes to Global/Regional funded projects aimed at fostering climate resilience and sustainable development. His current role involves mapping and modelling tasks under the European Mission on Climate Adaptation. He also collaborates on initiatives which focus on mainstreaming Nature-Based Solutions (NBS) for long-term climate resilience across diverse landscapes. In addition, he develops GIS-based decision support tools for cross-scale assessments of NBS. Desmond is instrumental in creating adaptation pathways for multi-hazard, multi-system resilience, aligning with European and International data standards.
 
