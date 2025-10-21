@@ -22,8 +22,8 @@
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-blueviolet)](https://www.researchgate.net/profile/Desmond-Lartey?ev=hdr_xprf)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/desmond-lartey/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Desmondlartey17?style=social)](https://x.com/Desmondlartey17)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green)](https://desmond-lartey.github.io/Portfolio-Website/index.html)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=desmond-lartey)
-[![Give a Star](https://img.shields.io/badge/⭐-Give%20a%20Star-pink?style=for-the-badge)](https://github.com/desmond-lartey)
 
 
 
