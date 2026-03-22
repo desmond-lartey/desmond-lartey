@@ -27,11 +27,13 @@
 
 
 
-Desmond Lartey is a Researcher who actively contributes to Global/Regional funded projects aimed at fostering climate resilience and sustainable development. His current role involves mapping and modelling tasks under the European Mission on Climate Adaptation. He also collaborates on initiatives which focus on mainstreaming Nature-Based Solutions (NBS) for long-term climate resilience across diverse landscapes. In addition, he develops GIS-based decision support tools for cross-scale assessments of NBS. Desmond is instrumental in creating adaptation pathways for multi-hazard, multi-system resilience, aligning with European and International data standards.
+Desmond Lartey is a researcher working at the nexus of climate resilience, environmental change, and spatial decision support. His research develops scientifically grounded and policy-relevant approaches for understanding climate risks, landscape transformation, and nature-based adaptation, particularly in data-limited regions. He integrates geospatial analysis, climate data evaluation, socio-ecological modelling, and GIS-based decision-support tools to produce evidence that can inform both research and real-world decision-making.
 
-Desmond's previous roles include Scientific Researcher at Wageningen University and Research, Agro-NL Consult Solutions, and Urban Cycling Institute.
+His current research focuses on advancing frameworks that connect climate product evaluation to decision-relevant guidance for users and policymakers, especially in regions where uncertainty in climate datasets can strongly influence risk assessments, early warning systems, and adaptation planning. He also investigates land use dynamics and socio-ecological drivers in protected landscapes to support climate-resilient conservation and adaptive management. Through this work, he contributes to identifying vulnerability hotspots, anticipating future landscape change, and designing more effective strategies for biodiversity conservation, ecosystem resilience, and sustainable land management.
 
-Desmond has a Research interest in Artificial Intelligence systems, AI Urbanism and governance. He uses techniques like social network analysis, graph neural networks, Natural Language Processing, and sentiment analysis to understand urban systems. He collaborates with Researchers in ISSBS, Deakin University and USDA to explore frameworks such as systems  of systems, actor-network theory and network governance to understand AI Urbanism and how it shapes current policy and decision-making outcomes.
+Desmond’s previous roles include Scientific Researcher at Deltares, Wageningen University & Research, Agro-NL Consult Solutions, and the Urban Cycling Institute.
+
+His broader research interests include Artificial Intelligence systems, AI urbanism, and governance. He applies methods such as social network analysis, graph neural networks, natural language processing, and sentiment analysis to examine complex urban systems. In collaboration with researchers at ISSBS, Deakin University, and the USDA, he explores frameworks such as systems of systems, actor-network theory, and network governance to understand how AI shapes contemporary policy and decision-making outcomes.
 
 
 
