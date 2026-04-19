@@ -79,8 +79,7 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
   </a>
 </p>
 
-## Programming Language and Tools:
-## Programming Language and Tools:
+## Programming Language and Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="90" height="90" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="90" height="90" />
@@ -98,6 +97,12 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/SPSS_An_IBM_Company_logo.svg" alt="SPSS" width="90" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGIS" width="90" height="90" />
 </p>
+
+<a href="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer">
+  <img align="right" src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" alt="timelapse" width="1000" height="400" />
+</a>
+
+<br clear="right" />
 
 ## GitHub Statistics:
 <p align="center">
