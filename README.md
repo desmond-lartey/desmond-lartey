@@ -84,7 +84,7 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
 </a>
 
 ## Programming Language and Tools:
-<p align="center">
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="90" height="90" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="90" height="90" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="90" height="90" />
