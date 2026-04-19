@@ -80,59 +80,23 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
 </p>
 
 ## Programming Language and Tools:
+## Programming Language and Tools:
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="90" height="90"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="90"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="90" height="90"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="90" height="90"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="90" height="90"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="earthengine" width="90" height="90"//>
-  </a>
- </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qgis_logo_icon_168038.png" alt="QGIS" width="90" height="90"//>
-  </a>
- </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.oneteam.it/wp-content/uploads/elementor/thumbs/1-q4gxdkdeikjjzqzxcbtsegzhegrkkrzb41l96kbsj0.png" alt="ArcgisPro" width="90" height="90"//>
-  </a>
-   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.oneteam.it/wp-content/uploads/elementor/thumbs/5-q4gxdkdeikjjzqzxcbtsegzhegrkkrzb41l96kbsj0.png" alt="ArcgisPro" width="90" height="90"//>
-  </a>
-   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://en1clic.com/wp-content/uploads/2024/02/Power-BI-Symbol-1024x576.png" alt="PowerBI" width="90" height="90"//>
-  </a>
-     </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/SPSS_An_IBM_Company_logo.svg" alt="SPSS" width="90" height="90"//>
-  </a>
-     </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGIS" width="90" height="90"//>
-  </a>
-  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="90" height="90" />
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="90" height="90" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="90" height="90" />
+  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="90" height="90" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qgis_logo_icon_168038.png" alt="QGIS" width="90" height="90" />
+  <img src="https://www.oneteam.it/wp-content/uploads/elementor/thumbs/1-q4gxdkdeikjjzqzxcbtsegzhegrkkrzb41l96kbsj0.png" alt="ArcGIS Pro" width="90" height="90" />
+  <img src="https://www.oneteam.it/wp-content/uploads/elementor/thumbs/5-q4gxdkdeikjjzqzxcbtsegzhegrkkrzb41l96kbsj0.png" alt="ArcGIS Online" width="90" height="90" />
+  <img src="https://en1clic.com/wp-content/uploads/2024/02/Power-BI-Symbol-1024x576.png" alt="Power BI" width="90" height="90" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/SPSS_An_IBM_Company_logo.svg" alt="SPSS" width="90" height="90" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGIS" width="90" height="90" />
 </p>
 
 ## GitHub Statistics:
