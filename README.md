@@ -19,7 +19,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/desmond-lartey?style=social)](https://github.com/desmond-lartey)
 [![Publications Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=NJuroh8AAAAJ&hl=en)
-[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-Profile-blueviolet)](https://www.researchgate.net/profile/Desmond-Lartey?ev=hdr_xprf)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0008-8855-6391)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/desmond-lartey/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Desmondlartey17?style=social)](https://x.com/Desmondlartey17)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green)](https://desmond-lartey.github.io/Portfolio-Website/index.html)
@@ -61,7 +61,7 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=your_google_scholar_id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/desmond-lartey/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen)](https://www.researchgate.net/profile/Desmond-Lartey)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0008-8855-6391)
+
 [![Fiverr](https://img.shields.io/badge/Fiverr-Check%20Out%20My%20Services-1dbf73)](https://www.fiverr.com/your_fiverr_id)
 
 
