@@ -22,7 +22,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0008-8855-6391)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/desmond-lartey/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Desmondlartey17?style=social)](https://x.com/Desmondlartey17)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-green)](https://desmond-lartey.github.io/Portfolio-Website/index.html)
+[![Portfolio Badge](https://img.shields.io/badge/Mail-Click%20Here-red)](https://desmond-lartey.github.io/Portfolio-Website/index.html)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=desmond-lartey)
 
 
