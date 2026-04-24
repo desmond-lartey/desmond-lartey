@@ -69,20 +69,6 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
 
 - ⚡ Fun fact: I am always serious, but I think I can be fun sometimes too! :)
 
-## Connect with me:
-<p align="center">
-  <a href="https://twitter.com/desmondlartey17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@desmondlartey17" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/desmond-lartey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="desmond-lartey" height="30" width="40" />
-  </a>
-</p>
-
-<a href="https://geo-jobe.com/how-to/free-with-maplapse-for-acgis-online/" target="_blank" rel="noreferrer">
-  <img src="https://geo-jobe.com/wp-content/uploads/2017/05/gifshot-demo24.gif" alt="timelapse" width="100%" />
-</a>
-
 ## Programming Language and Tools
 <table align="center"><tr>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/><br/>Git</td>
