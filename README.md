@@ -58,9 +58,6 @@ For more information, please visit my [PORTFOLIO WEBSITE](https://desmond-lartey
 
 ## Connect with Me
 [![Mail](https://img.shields.io/badge/Mail-Click%20Here-red)](mailto:larteydesmond3@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=your_google_scholar_id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/desmond-lartey/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen)](https://www.researchgate.net/profile/Desmond-Lartey)
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-Check%20Out%20My%20Services-1dbf73)](https://www.fiverr.com/your_fiverr_id)
 
