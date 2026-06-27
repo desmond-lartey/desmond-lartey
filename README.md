@@ -41,7 +41,6 @@ His broader research interests include Artificial Intelligence systems, AI urban
   
 ## About Me
 - I work on regional to global scale studies addressing environmental change and climate change using geospatial techniques.
-
 - With over 5 years of experience in the geospatial domain, I have successfully completed several projects using quantitative, qualitative and geospatial tools.
 - I am open to collaboration opportunities related to geospatial research, environmental analysis and urban/rural planning.
 
