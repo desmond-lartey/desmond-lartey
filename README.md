@@ -27,7 +27,7 @@
 
 
 
-Desmond Lartey is a researcher working at the nexus of climate resilience, environmental change, and spatial decision support. His research develops scientifically grounded and policy-relevant approaches for understanding climate risks, landscape transformation, and nature-based adaptation, particularly in data-limited regions. He integrates geospatial analysis, climate data evaluation, socio-ecological modelling, and GIS-based decision-support tools to produce evidence that can inform both research and real-world decision-making.
+Desmond Lartey is a researcher working at the nexus of climate resilience, environmental change, and spatial decision support. His research develops scientific and policy-relevant approaches for understanding climate risks, landscape transformation, and nature-based adaptation, particularly in data-limited regions. He integrates geospatial analysis, climate data evaluation, socio-ecological modelling, and GIS-based decision-support tools to produce evidence that can inform both research and real-world decision-making.
 
 His current research focuses on advancing frameworks that connect climate product evaluation to decision-relevant guidance for users and policymakers, especially in regions where uncertainty in climate datasets can strongly influence risk assessments, early warning systems, and adaptation planning. He also investigates land use dynamics and socio-ecological drivers in protected landscapes to support climate-resilient conservation and adaptive management. Through this work, he contributes to identifying vulnerability hotspots, anticipating future landscape change, and designing more effective strategies for biodiversity conservation, ecosystem resilience, and sustainable land management.
 
