@@ -7,7 +7,7 @@
     <p style="margin: 5px 0; font-size: 18px;">
         <strong>Land-use monitoring</strong> | 
         <strong>Plants-Urban Greening</strong> | 
-        <strong>Remote Sensing</strong>
+        <strong>Remote Sensing</strong> 
     </p>
     <p style="margin: 5px 0; font-size: 16px;">
         Spatial Planning, Risk, &amp; Flood Analysis | Climate Change | Fire Resilient Landscapes
